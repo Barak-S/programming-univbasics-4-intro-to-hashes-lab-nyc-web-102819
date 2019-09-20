@@ -1,4 +1,4 @@
-require "./shapes/shape"
+require '../intro_to_ruby_hashes_lab_spec
 def new_hash
   {}
 end
