@@ -1,3 +1,4 @@
+require "./shapes/shape"
 def new_hash
   {}
 end
