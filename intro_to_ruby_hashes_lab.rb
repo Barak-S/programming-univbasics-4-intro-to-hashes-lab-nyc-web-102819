@@ -1,4 +1,4 @@
-require '../intro_to_ruby_hashes_lab_spec.rb'
+require_relative '../intro_to_ruby_hashes_lab_spec.rb'
 def new_hash
   {}
 end
